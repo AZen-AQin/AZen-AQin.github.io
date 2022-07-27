@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/AZen-AQin/AZen-AQin.github
 
 这是我的个人主页，之后会在这里分享一些有趣的东西供大家学习！
 
-### Markdown
+### AZEN-AQIN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 int main()
